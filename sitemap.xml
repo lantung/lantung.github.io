@@ -7,12 +7,20 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.org/tags/</loc>
+=======
+    <loc>http://example.org/</loc>
+>>>>>>> 40fb5685e4efaa40b695f3e99ac76f3f1dd49d13
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.org/</loc>
+=======
+    <loc>http://example.org/tags/</loc>
+>>>>>>> 40fb5685e4efaa40b695f3e99ac76f3f1dd49d13
     <priority>0</priority>
   </url>
   
